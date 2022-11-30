@@ -1,0 +1,148 @@
+import time
+from random import randint
+print('Please enter 6 figure code')
+onepassword = input('Password: ')
+terminal = False
+terminal_mp = False
+bossbattle = False
+mp_destination = False
+if onepassword == '862136':
+  print('Loading...')
+  terminal = True
+else:
+  print('Incorrect')
+if terminal == True:
+  time.sleep(1)
+  print('Logging into user archive...')
+  time.sleep(3)
+  print('Acessing files...')
+  time.sleep(3)
+  print('Fully loaded')
+  terminal_mp = True
+if terminal_mp == True:
+  mp_destination = input('Where would you like to go? ')
+if mp_destination == 'Employee_portal':
+  import time
+  time.sleep(1)
+  print('Logging into employee database...')
+  time.sleep(3)
+  print('Verifying connection...')
+  time.sleep(3)
+  print('Fully loaded')
+  print('What would you like to find?')
+  searchrequest = input('Keyword(s) ')
+  if searchrequest == ('04/03/01'):
+    print('1')
+  elif searchrequest == ('27/09/21'):
+    print('2')
+  elif searchrequest == ('05/09/21'):
+    print('3')
+  elif searchrequest == ('30/09/21'):
+    print('4')
+  elif searchrequest == ('07/10/21'):
+    print('5')
+  elif searchrequest == ('Burton'):
+    print('6')
+  elif searchrequest == ('Runes_of_Kafkal'):
+    print('7')
+  elif searchrequest == ('The_Watchman'):
+    print('8')
+  elif searchrequest == (''):
+    print('9')
+  elif searchrequest == ('427572746F6E20636F6D6D616E64'):
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    time.sleep(1)
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    time.sleep(1)
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    time.sleep(1)
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    time.sleep(1)
+    print('l̴̤̏́͌̕͜͝o̴̝̅̋̀̔̓̊̄͒́̊a̴̧͚̗̯͚̞̠͕̳̥̰̜̔͋d̵̖́̃͐̽̽́̓ï̴̮̠̦̩͌ͅǹ̵̯͍̘͎͐̐̈́̎̾̓̋͌̕͝͝ǧ̵̩̩̼͎̖̖̹̣͈͓͉̮͜͝')
+    time.sleep(1)
+    print('ʟօǟɖɨռɢ')
+    time.sleep(3)
+    print('Loaded')
+    time.sleep(3)
+    print('Begin')
+    codeone = input('Watchman : ')
+    if codeone == ('706174726F6E'):
+      feeling_brave = True
+      score = 0
+      while feeling_brave:
+        ghost_door = randint(1, 5)
+        print ('Five doors ahead...')
+        time.sleep(1)
+        print ('A spirit behind one.')
+        time.sleep(1)
+        print ('which door do you open?')
+        time.sleep(1)
+        door = input('? ')
+        door_num = int(door)
+        if door_num == ghost_door:
+          print('Ghost!')
+          feeling_brave = False
+        else:
+          time.sleep(1)
+          print('No ghost!')
+          time.sleep(1)
+          print('You entered the next room.')
+          score = score + 1
+          if score == 3:
+            print('You enter a dark room, a single-light hangs from the celing casting a dim glow to the rocky walls. You can hear a low guttaral moan and the air has thick musky stench to it.')
+            time.sleep(4)
+            print('At the pother end of the room is lone red door, it has the words, DO NOT ENTER  , scrawled across the centre. What do you do?')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('ฬђคՇ ๔๏ ץ๏ย ๔๏?')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('W̴̥̆͗̀h̶̡͍̍a̶̱̬̜͌t̷̮͂͋͂ ̴̥̕s̶̨͈̒h̴͓͙̋̉͊o̵̡̙͆̾̌ů̷̘̻̠̀l̴͍̰͌̈́̀d̶̛̗͓͑ ̸͈̻̌y̴̛͎ó̸͔̱u̵̬̣̼͂͊͐ ̵̖̑d̶̨̫̖̃͐ó̶̲̄?̶̡̳̋')
+            time.sleep(0.5)
+            print('What do you do?')
+            time.sleep(0.5)
+            print('WHAT SHOULD YOU DO...........................................................................................................................................................................................................................................................................................................................................................................................')
+            time.sleep(15)
+            print('You did it!')
+            time.sleep(1)
+            print('You found him')
+            time.sleep(1)
+            print('Wave')
+            time.sleep(1)
+            print('He looks frightened')
+            time.sleep(1)
+            print ('What do you want to do?')
+            burtonaction1 = input('Hug or hit?')
+      else:
+        print ('Run away!')
+        print (' Game over! You scored', score)
+        print('File not found')
+        print('Logging out')
+  else:
+    print('File not found')
+    print('Logging out')
